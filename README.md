@@ -47,7 +47,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://drive.google.com/file/d/1edqzZ785HcGm6KseXt1MMpyzEqpoM8y0/view?usp=drivesdk)
+![https://drive.google.com/file/d/1edqzZ785HcGm6KseXt1MMpyzEqpoM8y0/view?usp=drivesdk]
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -70,13 +70,13 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](https://drive.google.com/file/d/1-8-waiTrgYX_Gdo2Aecc3r2H0a_aCOaV/view?usp=drivesdk)
+![https://drive.google.com/file/d/1-8-waiTrgYX_Gdo2Aecc3r2H0a_aCOaV/view?usp=drivesdk]
 *List out all components shown*
 
-![Build](https://drive.google.com/file/d/1cJHF__rZkHOMBilG7ZQuL5SseyPOQ2_N/view?usp=drivesdk)
+![https://drive.google.com/file/d/1cJHF__rZkHOMBilG7ZQuL5SseyPOQ2_N/view?usp=drivesdk]
 *Explain the build steps*
 
-![Final](https://drive.google.com/file/d/1SbIC2QvkVxjtuJeFQDh3f_oBPv91Okia/view?usp=drivesdk)
+![https://drive.google.com/file/d/1SbIC2QvkVxjtuJeFQDh3f_oBPv91Okia/view?usp=drivesdk]
 *Explain the final build*
 
 ### Project Demo
